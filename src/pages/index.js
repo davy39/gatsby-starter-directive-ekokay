@@ -17,11 +17,11 @@ const IndexPage = () => (
     <div id="main">
       <header className="major container medium">
         <h2>
-          We conduct experiments that
+          L'énergie
           <br />
-          may or may not seriously
+          la plus écologique
           <br />
-          break the universe
+          est celle que l'on ne consomme pas
         </h2>
       </header>
 
