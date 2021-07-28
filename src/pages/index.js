@@ -19,7 +19,7 @@ const IndexPage = () => (
         <h2>
           L'énergie
           <br />
-          la plus écologique est 
+          la plus écologique est
           <br />
           celle que l'on ne consomme pas
         </h2>
