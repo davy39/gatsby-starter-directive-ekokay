@@ -24,9 +24,8 @@ const IndexPage = () => (
       <div className="box alt container">
         <section className="feature left">
           //<a href="/#" className="image icon fa-signal">
-          <a>
             <img src={pic1} alt="" />
-          </a>
+          //</a>
           <div className="content">
             <h3>Problématiques</h3>
             <p>
