@@ -47,7 +47,7 @@ const IndexPage = () => (
           <div className="content">
             <h3>Solutions</h3>
             <p>
-              Il faut tout dabord viser une plus grande sobriété en abaissant nos besoins énergétiques, et rénover le parc existant pour une plus grande efficacité énergétique
+              Il faut tout d'abord viser une plus grande sobriété en abaissant nos besoins énergétiques, et rénover le parc existant pour une plus grande efficacité énergétique
                et une plus grande utilisation des énergies non-carbonnée.
               Pour faciliter cette transition, l'état a mis en place différentes aides financières pour la rénovation de l'habitat individuel.
             </p>
