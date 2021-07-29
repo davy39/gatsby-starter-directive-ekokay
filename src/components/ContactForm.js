@@ -13,6 +13,9 @@ export default function ContactForm() {
           <textarea name="message" placeholder="Message" rows="6"></textarea>
         </div>
         <div className="col-12">
+          <textarea name="adresse" placeholder="Adresse" rows="6"></textarea>
+        </div>
+        <div className="col-12">
           <ul className="actions special">
             <li>
               <input type="submit" value="Envoyer" />
