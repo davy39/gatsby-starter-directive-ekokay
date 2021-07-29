@@ -57,7 +57,7 @@ const IndexPage = () => (
           <div className="content">
             <h3>Les services EKOKAY</h3>
             <p>
-            EKOKAY est un bureau d'étude indépendant oeuvrant pour la maîtrise de l'énergie.
+            <b>EKOKAY</b> est un bureau d'étude indépendant oeuvrant pour la maîtrise de l'énergie.
             L'<b>audit énergétique</b> permet d'identifier les travaux prioritaires tout en quantifiant leur coût fiancier,
              ainsi que le gain énergétique engendré.
             </p>
@@ -66,9 +66,9 @@ const IndexPage = () => (
       </div>
 
       <footer className="major container medium">
-        <h3>Get shady with this starter</h3>
+        <h3>Aide au financement d'un audit</h3>
         <p>
-          En Bourgogne-Franche-Comté, le programme EFFILOGIS prend en charge une grande partie du coût de réalisation d'un audit énergétique.
+          En Bourgogne-Franche-Comté, le programme <b>EFFILOGIS</b> prend en charge une grande partie du coût de réalisation d'un audit énergétique.
         </p>
         <ul className="actions special">
           <li>
