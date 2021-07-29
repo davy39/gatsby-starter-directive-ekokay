@@ -31,11 +31,12 @@ const IndexPage = () => (
             <img src={pic1} alt="" />
           </a>
           <div className="content">
-            <h3>The First Thing</h3>
+            <h3>Problématiques</h3>
             <p>
-              Vitae natoque dictum etiam semper magnis enim feugiat amet
-              curabitur tempor orci penatibus. Tellus erat mauris ipsum
-              fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+              Les scientifiques nous allertent depuis les années 70 sur le dérèglement climatique
+              engendré par l'augmentation des gaz à effet de serre.
+              En France, le secteur résidentiel-tertiaire représente 20% des émissions de gaz à effet de serre.
+              Les causes sont principalement le manque de performance thermique du bâti et des système, et l'utilisation des énergies fossiles.
             </p>
           </div>
         </section>
@@ -44,7 +45,7 @@ const IndexPage = () => (
             <img src={pic2} alt="" />
           </a>
           <div className="content">
-            <h3>The Second Thing</h3>
+            <h3>Solutions</h3>
             <p>
               Vitae natoque dictum etiam semper magnis enim feugiat amet
               curabitur tempor orci penatibus. Tellus erat mauris ipsum
@@ -57,7 +58,7 @@ const IndexPage = () => (
             <img src={pic3} alt="" />
           </a>
           <div className="content">
-            <h3>The Third Thing</h3>
+            <h3>Les services Ekokay</h3>
             <p>
               Vitae natoque dictum etiam semper magnis enim feugiat amet
               curabitur tempor orci penatibus. Tellus erat mauris ipsum
