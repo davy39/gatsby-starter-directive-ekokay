@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Ekokay', // <title>
   manifestName: 'directive',
-  manifestShortName: 'Landing', // max 12 characters
+  manifestShortName: 'Ekokay', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
@@ -9,14 +9,14 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-directive/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'EKOKAY',
-  subHeading: "Réalisation d'audits énergétiques dans l'habitat individuel",
+  subHeading: "Réalisation d'audits énergétiques en habitat individuel",
   // social
   socialLinks: [
-//    {
-//      icon: 'fa-github',
-//      name: 'Github',
-//      url: 'https://github.com/anubhavsrivastava',
-//    },
+    {
+      icon: 'fa-linkedin',
+      name: 'Linkedin',
+      url: 'https://fr.linkedin.com/in/vangelis-cottet-59b07b168',
+    },
 //    {
 //      icon: 'fa-twitter',
 //      name: 'Twitter',
