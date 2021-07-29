@@ -8,7 +8,7 @@ export default function Header() {
       <h1>{config.heading}</h1>
       <p>{config.subHeading}</p>
       <p>
-        <img src={certif} width="200" height="133" alt="" style="vertical-align:middle;margin:100px 0px"/>
+        <img src={certif} width="200" height="133" alt="" style="vertical-align:middle; margin:100px 0px;" />
       </p>
     </div>
   );
