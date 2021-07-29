@@ -7,9 +7,7 @@ export default function Header() {
       <span className="logo icon fa-home"></span>
       <h1>{config.heading}</h1>
       <p>{config.subHeading}</p>
-      <p>
-        <img src={certif} width="200" height="133" alt="" style="vertical-align:middle; margin:100px 0px">
-      </p>
+      <img src={certif} width="200" height="133" alt="" style="margin:100px 0px" />
     </div>
   );
 }
