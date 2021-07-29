@@ -10,10 +10,10 @@ export default function ContactForm() {
           <input type="email" name="email" placeholder="Email" />
         </div>
         <div className="col-12">
-          <textarea name="message" placeholder="Message" rows="6"></textarea>
+          <textarea name="adresse" placeholder="Adresse" rows="2"></textarea>
         </div>
         <div className="col-12">
-          <textarea name="adresse" placeholder="Adresse" rows="6"></textarea>
+          <textarea name="message" placeholder="Message" rows="6"></textarea>
         </div>
         <div className="col-12">
           <ul className="actions special">
