@@ -54,7 +54,7 @@ const IndexPage = () => (
             <h3>Les services EKOKAY</h3>
             <p>
             <b>EKOKAY</b> est un bureau d'étude indépendant oeuvrant pour la maîtrise de l'énergie.
-            L'<b>audit énergétique</b> permet d'identifier les travaux prioritaires tout en quantifiant leur coût fiancier,
+            L'<b>audit énergétique</b> permet d'identifier les travaux prioritaires tout en quantifiant leurs coûts financiers,
              ainsi que le gain énergétique engendré.
             </p>
           </div>
