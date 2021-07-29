@@ -33,7 +33,7 @@ const IndexPage = () => (
           <div className="content">
             <h3>Problématiques</h3>
             <p>
-              En France, le secteur résidentiel-tertiaire représente 20% des émissions de gaz à effet de serre responsable du dérèglement climatique.
+              En France, le secteur résidentiel-tertiaire représente 20% des émissions de gaz à effet de serre responsables du dérèglement climatique.
               Les causes sont principalement le manque de performance thermique du bâti et des système, et l'utilisation des énergies fossiles.
             </p>
           </div>
@@ -45,9 +45,9 @@ const IndexPage = () => (
           <div className="content">
             <h3>Solutions</h3>
             <p>
-              Il faut tout d'abord viser une plus grande sobriété en abaissant nos besoins énergétiques, et rénover le parc existant pour une plus grande efficacité énergétique
-               et une plus grande utilisation des énergies non-carbonnée.
-              Pour faciliter cette transition, l'état a mis en place différentes aides financières pour la rénovation de l'habitat individuel.
+              Il nous faut atteindre une plus grande sobriété en abaissant nos besoins énergétiques
+               par la rénovation du parc existant et nous orienter vers l'utilisation d'énergies non-carbonnées.
+               Pour accélérer cette transition, l'état a mis en place différentes aides financières pour la rénovation de l'habitat individuel.
             </p>
           </div>
         </section>
@@ -59,7 +59,7 @@ const IndexPage = () => (
             <h3>Les services EKOKAY</h3>
             <p>
             EKOKAY est un bureau d'étude indépendant oeuvrant pour la maîtrise de l'énergie.
-            L'audit énergétique permet d'identifier les travaux prioritaires tout en quantifiant leur coût fiancier,
+            L'<b>audit énergétique</b> permet d'identifier les travaux prioritaires tout en quantifiant leur coût fiancier,
              ainsi que le gain énergétique engendré.
             Ce dernier se déroule en deux étapes, une visite technique sur site, puis le rendu d'un rapport détaillé.
             </p>
