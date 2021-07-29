@@ -33,9 +33,7 @@ const IndexPage = () => (
           <div className="content">
             <h3>Problématiques</h3>
             <p>
-              Les scientifiques nous allertent depuis les années 70 sur le dérèglement climatique
-              engendré par l'augmentation des gaz à effet de serre.
-              En France, le secteur résidentiel-tertiaire représente 20% des émissions de gaz à effet de serre.
+              En France, le secteur résidentiel-tertiaire représente 20% des émissions de gaz à effet de serre responsable du dérèglement climatique.
               Les causes sont principalement le manque de performance thermique du bâti et des système, et l'utilisation des énergies fossiles.
             </p>
           </div>
