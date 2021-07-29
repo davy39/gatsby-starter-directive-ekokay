@@ -35,7 +35,7 @@ const IndexPage = () => (
           </div>
         </section>
         <section className="feature right">
-          <a href="/#" className="image icon fa-code">
+          <a className="image">
             <img src={pic2} alt="" />
           </a>
           <div className="content">
@@ -47,7 +47,7 @@ const IndexPage = () => (
           </div>
         </section>
         <section className="feature left">
-          <a href="/#" className="image icon fa-mobile">
+          <a className="image">
             <img src={pic3} alt="" />
           </a>
           <div className="content">
