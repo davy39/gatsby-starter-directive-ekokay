@@ -17,11 +17,7 @@ const IndexPage = () => (
     <div id="main">
       <header className="major container medium">
         <h2>
-          L'énergie
-          <br />
-          la plus écologique est
-          <br />
-          celle que l'on ne consomme pas
+          L'énergie la plus écologique est celle que l'on ne consomme pas
         </h2>
       </header>
 
