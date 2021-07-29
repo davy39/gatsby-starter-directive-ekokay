@@ -47,9 +47,9 @@ const IndexPage = () => (
           <div className="content">
             <h3>Solutions</h3>
             <p>
-              Vitae natoque dictum etiam semper magnis enim feugiat amet
-              curabitur tempor orci penatibus. Tellus erat mauris ipsum
-              fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+              Il faut tout dabord viser une plus grande sobriété en abaissant nos besoins énergétiques, et rénover le parc existant pour une plus grande efficacité énergétique
+               et une plus grande utilisation des énergies non-carbonnée.
+              Pour faciliter cette transition, l'état a mis en place différentes aides financières pour la rénovation de l'habitat individuel.
             </p>
           </div>
         </section>
@@ -58,11 +58,12 @@ const IndexPage = () => (
             <img src={pic3} alt="" />
           </a>
           <div className="content">
-            <h3>Les services Ekokay</h3>
+            <h3>Les services EKOKAY</h3>
             <p>
-              Vitae natoque dictum etiam semper magnis enim feugiat amet
-              curabitur tempor orci penatibus. Tellus erat mauris ipsum
-              fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+            EKOKAY est un bureau d'étude indépendant oeuvrant pour la maîtrise de l'énergie.
+            L'audit énergétique permet d'identifier les travaux prioritaires tout en quantifiant leur coût fiancier,
+             ainsi que le gain énergétique engendré.
+            Ce dernier se déroule en deux étapes, une visite technique sur site, puis le rendu d'un rapport détaillé.
             </p>
           </div>
         </section>
