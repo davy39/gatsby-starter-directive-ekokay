@@ -70,13 +70,12 @@ const IndexPage = () => (
       <footer className="major container medium">
         <h3>Get shady with this starter</h3>
         <p>
-          There is also elements page in this template. Click below button to
-          check
+          En Bourgogne-Franche-Comté, le programme EFFILOGIS prend en charge une grande partie du coût de réalisation d'un audit énergétique.
         </p>
         <ul className="actions special">
           <li>
-            <Link to="/Elements" className="button">
-              View Elements
+            <Link to="https://www.ajena.org/aides-financieres-regionales-effilogis" className="button">
+              En savoir plus...
             </Link>
           </li>
         </ul>
