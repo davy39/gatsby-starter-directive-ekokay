@@ -33,8 +33,8 @@ const IndexPage = () => (
           <div className="content">
             <h3>Problématiques</h3>
             <p>
-              En France, le secteur résidentiel-tertiaire représente 20% des émissions de gaz à effet de serre responsables du dérèglement climatique.
-              Les causes sont principalement le manque de performance thermique du bâti et des système, et l'utilisation des énergies fossiles.
+              En France, le secteur résidentiel-tertiaire représente 20% des émissions de gaz à effet de serre
+               de par le manque de performance thermique du bâti et l'utilisation des énergies fossiles.
             </p>
           </div>
         </section>
@@ -45,9 +45,8 @@ const IndexPage = () => (
           <div className="content">
             <h3>Solutions</h3>
             <p>
-              Il nous faut atteindre une plus grande sobriété en abaissant nos besoins énergétiques
-               par la rénovation du parc existant et nous orienter vers l'utilisation d'énergies non-carbonnées.
-               Pour accélérer cette transition, l'état a mis en place différentes aides financières pour la rénovation de l'habitat individuel.
+               La rénovation du parc existant nous permet d'atteindre une plus grande sobriété énergétique
+               tout en nous orientant vers l'utilisation d'énergies non-carbonnées.
             </p>
           </div>
         </section>
@@ -61,7 +60,6 @@ const IndexPage = () => (
             EKOKAY est un bureau d'étude indépendant oeuvrant pour la maîtrise de l'énergie.
             L'<b>audit énergétique</b> permet d'identifier les travaux prioritaires tout en quantifiant leur coût fiancier,
              ainsi que le gain énergétique engendré.
-            Ce dernier se déroule en deux étapes, une visite technique sur site, puis le rendu d'un rapport détaillé.
             </p>
           </div>
         </section>
