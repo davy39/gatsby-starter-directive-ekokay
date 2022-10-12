@@ -24,9 +24,6 @@ export default function ContactForm() {
         </div>
       </div>
       <input type="hidden" name="_recaptcha" id="_recaptcha"/>
-
     </form>
-<script src="https://www.google.com/recaptcha/api.js?render=6Lf7UsoUAAAAACT2Z6gLyh7RTDfyYGxfZ-M4D0ph"></script>
-<script src="https://www.flexyform.com/js/recaptcha.js"></script>
   );
 }
