@@ -8,7 +8,7 @@ module.exports = {
         description: `EKOKAY est un bureau d'étude indépendant oeuvrant pour la maîtrise de l'énergie. L'audit énergétique permet d'identifier les travaux prioritaires tout en quantifiant leurs coûts financiers, ainsi que le gain énergétique engendré.`,
         author: `Vangélis Cottet`,
         image: `/img/logo.jpg`,
-        keywords: `audit énergétique, diagnostic énergétique, bilan thermique, jura, Lons-le-Saunier, Dole, Champagnole, Poligny, économies d'énergie, énergie, chauffage, solaire`,
+        keywords: `audit énergétique, diagnostic énergétique, bilan thermique, jura, Lons-le-Saunier, Dole, Champagnole, Poligny, Bourgogne, Franche-Comté, économies d'énergie, énergie, chauffage, solaire`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
