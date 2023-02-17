@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-
+import Seo from "../components/Seo"
 import { Link } from 'gatsby';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -78,5 +78,7 @@ const IndexPage = () => (
     <Footer />
   </Layout>
 );
+
+export const Head = () => <Seo title="Ekokay" />
 
 export default IndexPage;
