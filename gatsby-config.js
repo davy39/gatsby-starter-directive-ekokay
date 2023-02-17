@@ -3,7 +3,11 @@ const config = require('./config');
 module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
-    title: config.siteTitle,
+    title: `Ekokay - Diagnostiques énergétiques`,
+    description: `EKOKAY est un bureau d'étude indépendant oeuvrant pour la maîtrise de l'énergie. L'audit énergétique permet d'identifier les travaux prioritaires tout en quantifiant leurs coûts financiers, ainsi que le gain énergétique engendré.`,
+    author: `Vangélis Cottet`,
+    siteUrl: `https://ekokay.fr`,
+    keywords: `audit énergétique, diagnostic énergétique, bilan thermique, jura, Lons-le-Saunier, Dole, Champagnole, Poligny, économies d'énergie, énergie, chauffage, solaire`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
