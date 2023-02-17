@@ -1,5 +1,12 @@
 module.exports = {
   siteTitle: 'Ekokay', // <title>
+  siteTitleAlt: 'Ekokay',
+  siteLogo: '/img/logo.jpg',
+  siteUrl: 'https://ekokay.fr',
+  siteUrlShort: 'ekokay.fr',
+  siteDescription: "EKOKAY est un bureau d'étude indépendant oeuvrant pour la maîtrise de l'énergie. L'audit énergétique permet d'identifier les travaux prioritaires tout en quantifiant leurs coûts financiers, ainsi que le gain énergétique engendré.",
+  siteKeyWords: "audit énergétique, diagnostic énergétique, bilan thermique, jura, Lons-le-Saunier, Dole, Champagnole, Poligny, économies d'énergie, énergie, chauffage, solaire, DPE, ma prim renov",
+  siteAuthor: 'Vangélis Cottet',
   manifestName: 'directive',
   manifestShortName: 'Ekokay', // max 12 characters
   manifestStartUrl: '/',
