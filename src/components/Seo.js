@@ -1,4 +1,8 @@
-...
+
+import * as React from "react"
+import PropTypes from "prop-types"
+import { useStaticQuery, graphql } from "gatsby"
+
 function SEO({ description, lang, meta, title}) {
   const { site } = useStaticQuery(
     graphql`
