@@ -4,13 +4,10 @@ module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
         siteUrl: config.siteUrl,
-        siteUrlShort: config.siteUrlShort,
-        siteTitle: config.siteTitle,
-        siteTitleAlt: config.siteTitleAlt,
-        siteDescription: config.siteDescription,
-        siteLogo: config.siteLogo,
-        siteKeyWords: config.siteKeyWords,
-        siteAuthor: config.siteAuthor,
+        title: `Ekokay - Diagnostiques énergétiques`,
+        description: `EKOKAY est un bureau d'étude indépendant oeuvrant pour la maîtrise de l'énergie. L'audit énergétique permet d'identifier les travaux prioritaires tout en quantifiant leurs coûts financiers, ainsi que le gain énergétique engendré.`,
+        author: `Vangélis Cottet`,
+        keywords: `audit énergétique, diagnostic énergétique, bilan thermique, jura, Lons-le-Saunier, Dole, Champagnole, Poligny, économies d'énergie, énergie, chauffage, solaire`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
